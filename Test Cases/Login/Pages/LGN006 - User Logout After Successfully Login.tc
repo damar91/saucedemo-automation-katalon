@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LGN006 - User Logout After Successfully Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>02eb092b-4979-48de-9659-3a10fda4d174</testCaseGuid>
+</TestCaseEntity>

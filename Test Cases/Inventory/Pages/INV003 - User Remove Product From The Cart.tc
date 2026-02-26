@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>INV003 - User Remove Product From The Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c20c734-7298-4b4e-a1a2-40a40f497f76</testCaseGuid>
+</TestCaseEntity>

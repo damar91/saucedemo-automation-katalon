@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LGN004 - User Login With Empy Username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb30ac69-477b-4f5e-aa14-134d3db7430f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User Open SwagLabs Website (without login)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>68289aa0-e25f-4825-997e-82083d353268</testCaseGuid>
+</TestCaseEntity>
